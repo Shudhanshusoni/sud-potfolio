@@ -27,7 +27,7 @@ const About=()=>{
                 <article className='about_card '>
                   <GiOpenFolder className='about_icon'/>
                   <h5>Projects</h5> 
-                  <small>10+</small> 
+                  <small>5+</small> 
                 </article>
             </div>
             <p>
