@@ -5,6 +5,8 @@ import book from '../../assest/book lib.jpg';
 import password from '../../assest/password g.jpg';
 import netflix from '../../assest/Netflix.jpg';
 import youtube from '../../assest/youtube.jpg';
+import funchat from '../../assest/funchat.jpg';
+import ecommerce from '../../assest/ecommerce.jpg';
 
 const data=[
     {
