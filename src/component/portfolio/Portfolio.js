@@ -12,7 +12,7 @@ const data=[
     {
         id:1,
         image:funchat,
-        title:"3D carousel",
+        title:"Fun Chat",
         github:'https://github.com/Shudhanshusoni/chat-app',
         demo:'https://fun-chat-app.onrender.com',
         review:"Created MERN Application with Real Time Chat Features using Socket.IO Where user can interact in Real Time"
